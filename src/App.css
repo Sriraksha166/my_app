@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+button{
+  background-color:blue;
+  width: 200px;
+  height: 50px;
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+button:hover{
+  background-color:blanchedalmond;
+  color: #282c34;
 }
